@@ -1,0 +1,6 @@
+@WebApiTech_HostAddress = http://localhost:5254
+
+GET {{WebApiTech_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
