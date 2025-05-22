@@ -2,6 +2,7 @@ namespace WebApiTech
 {
     public class WeatherForecast
     {
+        //Test
         public DateOnly Date { get; set; }
 
         public int TemperatureC { get; set; }
